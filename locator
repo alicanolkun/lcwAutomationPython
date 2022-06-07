@@ -1,0 +1,23 @@
+2 . in-super-input-wrapper in-form-item in-text-input-wrapper qa-text-input mt-4 w-24-s z-2 in-super-input-wrapper_disable
+
+3 "in-dropdown-wrapper__placeholder"
+
+-----------------
+
+
+2- #message-attribute  => (# İD , . CLASS ANLAMINA GELİR) => driver.findElement(By.Id='value')
+
+3-//div[@id='qa-drop-down']
+
+4- //label[@for="Test"]	
+
+5-.vuetable-slot.statistics  => driver.findElement(By.ClassName = '.vuetable-slot.statistics')
+				driver.findElement(By.CssSelector= '.vuetable-slot.statistics')
+				
+				
+6-#delete => driver.findElement(By.ID='Delete')
+
+
+7. #canvas-element-1227  (id) 
+
+8.#create-mobile-campaign
